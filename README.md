@@ -1,1 +1,1 @@
-![Альтернативный текст](/images/basket.png)
+### cart-page
